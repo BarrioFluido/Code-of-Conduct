@@ -17,6 +17,12 @@ Este es un Código de conducta para la comunidad Hawapi 2021. Esto se [basa en g
 * **Sea considerado.** Piense en cómo su contribución afectará a otros en la comunidad.
 * **Ten la mente abierta.** Acepta nuevas personas y nuevas ideas. Nuestra comunidad está evolucionando continuamente y damos la bienvenida a los cambios positivos.
 
-Si cree que alguien está violando el código de conducta, le pedimos que lo informe enviando un correo electrónico a [emailllll] (mailto: xxxxxxxx). Incluya su nombre y una descripción del incidente y nos comunicaremos con usted lo antes posible.
+Si cree que alguien está violando el código de conducta, le pedimos que lo informe enviando o llamando a cualquier miembro integrante del equipo curatorial. Incluya una descripción del incidente y nos comunicaremos con usted lo antes posible.
+
+| Susie Quillinan      | Maxim Holland | Jesenia Rodriguez      | Gisselle Giron |
+| ----------- | ----------- | ----------- | ----------- |
+| +51 966 305 305      | +51 997 417 310       | +1 (240) 237-2841      | +51 955 207 363      |
+
+
 
 Se espera que lxs participantes a lxs que se les solicite detener cualquier comportamiento de acoso cumplan de inmediato. Si un participante se involucra en un comportamiento de acoso, el equipo curatorial de Hawapi puede tomar cualquier acción que considere apropiada, hasta e incluyendo la expulsión a todos los espacios de comunicación e identificando al participante como acosadorx para otrxs miembros de Hawapi o el público en general.
