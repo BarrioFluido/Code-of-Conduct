@@ -1,22 +1,22 @@
-# Code-of-Conduct
+# Código de conducta para HAWAPI 2021
 
-This is a Code of Conduct for the Coding Train community. This is [largely based on the p5.js Code of Conduct](https://github.com/processing/p5.js/blob/main/CODE_OF_CONDUCT.md) and applies to all interactions here on GitHub, Discord, YouTube comments, and YouTube chat.
+Este es un Código de conducta para la comunidad Hawapi 2021. Esto se [basa en gran medida en el Código de conducta de p5.js] (https://github.com/processing/p5.js/blob/main/CODE_OF_CONDUCT.md) y se aplica a todas las interacciones por teléfono, whatsapp, zoom, Miro y cualquier otro canal de comunicación.
 
-* **Be mindful of your language.** Any of the following behavior is unacceptable: 
-  * Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or background
-  * Threats of violence
-  * Deliberate intimidation
-  * Sexually explicit or violent material
-  * Unwelcome sexual attention
-  * Stalking or following
-  * Or any other kinds of harassment
+* ** Sea consciente de su lenguaje. ** Cualquiera de los siguientes comportamientos se considerará inaceptable:
+  * Comentarios ofensivos relacionados con la identidad y expresión de género, orientación sexual, raza, etnia, idioma, tipo neurológico, tamaño, capacidad, clase, religión, cultura, subcultura, opinión política, edad, nivel de habilidad, ocupación o antecedentes
+  * Amenazas de violencia
+  * Intimidación deliberada
+  * Material sexualmente explícito o violento
+  * Atención sexual no deseada
+  * Acechar o seguir
+  * O cualquier otro tipo de acoso
 
-  Use your best judgement. If it will possibly make others uncomfortable, do not post it.
+  Utilice su mejor juicio. Si piensa que posiblemente sus comentarios harán que otrxs se sientan incómodxs, no lo publique.
 
-* **Be respectful.** Disagreement is not an opportunity to attack someone else's thoughts or opinions. Although views may differ, remember to approach every situation with patience and care. 
-* **Be considerate.** Think about how your contribution will affect others in the community. 
-* **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
+* ** Sea respetuoso. ** El desacuerdo no es una oportunidad para atacar los pensamientos u opiniones de otra persona. Aunque las opiniones pueden diferir, recuerde abordar cada situación con paciencia y cuidado.
+* ** Sea considerado. ** Piense en cómo su contribución afectará a otros en la comunidad.
+* ** Ten la mente abierta. ** Acepta nuevas personas y nuevas ideas. Nuestra comunidad está evolucionando continuamente y damos la bienvenida a los cambios positivos.
 
-If you believe someone is violating the code of conduct, we ask that you report it by emailing [info@thecodingtrain.com](mailto:info@thecodingtrain.com). Please include your name and a description of the incident, and we will get back to you ASAP.
+Si cree que alguien está violando el código de conducta, le pedimos que lo informe enviando un correo electrónico a [info@thecodingtrain.com] (mailto: xxxxxxxx). Incluya su nombre y una descripción del incidente y nos comunicaremos con usted lo antes posible.
 
-Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the Coding Train may take any action they deem appropriate, up to and including expulsion from all Coding Train spaces and identification of the participant as a harasser to other Coding Train members or the general public. 
+Se espera que lxs participantes a lxs que se les solicite detener cualquier comportamiento de acoso cumplan de inmediato. Si un participante se involucra en un comportamiento de acoso, el equipo curatorial de Hawapi puede tomar cualquier acción que considere apropiada, hasta e incluyendo la expulsión a todos los espacios de comunicación e identificando al participante como acosadorx para otrxs miembros de Hawapi o el público en general.
